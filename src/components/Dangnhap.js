@@ -160,7 +160,7 @@ function Dangnhap(props) {
                 <div className='qr_code mt-4'>
                 </div>
                 <div className='info_qr mt-2'>
-                    <h5>Donate cho tôi &lt;3 !</h5>
+                    <h5>Donate cho tôi. Tùy tâm &lt;3 !</h5>
                 </div>
             </div>
         </div>
