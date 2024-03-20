@@ -108,7 +108,7 @@ function Dangnhap(props) {
         <div class="wrapper">
                 <div>
                     <div class="text-center mt-4 name">
-                        <h3>KHÔNG SỢ MUỘN </h3>
+                        <h4><b>ĐỪNG ĐỂ TIỀN RƠI</b></h4>
                         <h6>Đăng nhập với tài khoản FPT</h6>
                     </div>
                     <form class="p-3 mt-3" >
